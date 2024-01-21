@@ -1,0 +1,18 @@
+{
+  "todos" : "ToDo´s",
+  "add_todo" : "ToDo ekle",
+  "no_todos" : "ToDo yok", 
+  "error_adding_todo": "Yapılacaklar eklenirken hata oluştu",
+  "error": "hata",
+  "name": "İsim",
+  "done": "Tamamlamak",
+  "name_cannot_be_empty": "Ad boş olamaz", 
+  "deleted" : "Gelöscht",
+  "updated" : "Aktualisiert",
+  "error_deleting_todo": "Fehler beim Löschen der Aufgabe",
+  "error_updating_todo": "Fehler beim Aktualisieren der Aufgabe",
+  "error_getting_todos": "Fehler beim Abrufen der Aufgaben",
+  "deleting" : "Löschen", 
+  "created_at" : "oluşturuldu"
+
+}

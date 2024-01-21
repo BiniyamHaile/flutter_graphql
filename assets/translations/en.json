@@ -1,0 +1,17 @@
+{
+  "todos" : "ToDo´s",
+  "add_todo" : "Add ToDo",
+  "no_todos" : "No ToDo´s", 
+  "error_adding_todo": "Error adding todo",
+  "error": "Error",
+  "name": "Name",
+  "done": "Done",
+  "name_cannot_be_empty": "Name cannot be empty",
+  "deleted" : "Deleted",
+  "updated" : "Updated",
+  "error_deleting_todo": "Error deleting todo",
+  "error_updating_todo": "Error updating todo",
+  "error_getting_todos": "Error getting todos",
+  "deleting" : "Deleting", 
+  "created_at" : "Created at"
+}
